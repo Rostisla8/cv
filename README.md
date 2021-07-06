@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Rostisla8.github.io/rsschool-cv/cv
