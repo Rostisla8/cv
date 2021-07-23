@@ -1,0 +1,131 @@
+body{
+    max-width: auto;
+    min-width: 350px;
+    height: auto;
+    margin: 0 center;
+}
+
+.grey{
+    
+    background-image: url(https://d.radikal.ru/d37/2107/5e/5b7e8a06bec3t.jpg);
+    Background-size: cover;
+    width: 100%;
+    height: 60px;
+    
+}
+.info{
+    font-family: monospace;
+   
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    border-bottom: solid 3px rgb(240, 237, 237);
+    background-image: url(https://b.radikal.ru/b34/2107/37/57005c4f8488t.jpg);
+    Background-size: cover;
+    margin-top: -13px;
+    padding-top:10px;
+    
+    
+}
+
+
+.col {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    width: 100%;
+    height: 20px; 
+    text-align: right;
+    margin-left: -40px;
+}
+
+.container{
+    display: flex;
+    margin: 0 center;
+    height: auto;
+    justify-content:center;
+    width: auto;
+    border: solid 3px rgb(240, 237, 237);
+    
+    
+}
+
+.first ,.second {
+
+border-bottom: solid 2px rgb(240, 237, 237);
+text-align: center;
+
+
+
+padding:5px 10px 5px 10px;
+}
+.footers{
+    text-align: center;
+}
+h3{
+    color: rgb(136, 135, 135);
+    font-size:20px ;
+}
+h2{
+    font-family: monospace;
+    color: rgb(136, 135, 135);
+    font-size: 50px;
+    text-align: center;
+}
+a{
+    font-family: Franklin Gothic Medium;
+    color: slategrey;
+    font-size: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.first{
+    width: 20%;
+    border-right: solid 3px rgb(240, 237, 237);
+    padding: 0px 90px 0px 0px;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+ol{
+    font-size: 25px;
+}
+
+.second{
+    width:60%;
+    margin-top: 50px;
+    text-align: center;
+    
+
+}
+
+.second h2{
+    text-align: center;
+}
+.first h2{
+    text-align: center; 
+}
+
+.profImage{
+width: 140px; 
+height: 180px; 
+border-radius: 100px;
+}
+.icons{
+    width: 100px;
+}
+.iconsss{
+    width: 50px;
+}
+.container-icon{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
