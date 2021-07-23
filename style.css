@@ -113,3 +113,19 @@ ol{
     text-align: center; 
 }
 
+.profImage{
+width: 140px; 
+height: 180px; 
+border-radius: 100px;
+}
+.icons{
+    width: 100px;
+}
+.iconsss{
+    width: 50px;
+}
+.container-icon{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
